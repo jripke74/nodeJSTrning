@@ -1,5 +1,0 @@
-This file was created by Node.js
-appending text.
-appending new text.
-appending new text.
-appending new text.
